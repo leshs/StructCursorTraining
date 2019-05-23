@@ -1,0 +1,6 @@
+/home/lenni/Projects/CursorStructBewegungen/CursorStructBewegungen/bin/Debug/CursorStructBewegungen.exe
+/home/lenni/Projects/CursorStructBewegungen/CursorStructBewegungen/bin/Debug/CursorStructBewegungen.pdb
+/home/lenni/Projects/CursorStructBewegungen/CursorStructBewegungen/obj/x86/Debug/CursorStructBewegungen.csprojAssemblyReference.cache
+/home/lenni/Projects/CursorStructBewegungen/CursorStructBewegungen/obj/x86/Debug/CursorStructBewegungen.csproj.CoreCompileInputs.cache
+/home/lenni/Projects/CursorStructBewegungen/CursorStructBewegungen/obj/x86/Debug/CursorStructBewegungen.exe
+/home/lenni/Projects/CursorStructBewegungen/CursorStructBewegungen/obj/x86/Debug/CursorStructBewegungen.pdb
